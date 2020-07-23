@@ -5,3 +5,8 @@ There are a few different times in history when computing has had a significant 
 # Welcome to Freefall. 
 
 This is a game that's based on some of the classics of the Golden Age, the vertical shooters like Space Invaders and Galaga. An array based command line game where the player must defend against falling stones!
+
+To experience this game, use the command on Mac/Linux enviorment in the folders location: 
+
+1) clang Freefall.c -o Freefall
+2) ./Freefall
